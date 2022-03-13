@@ -30,6 +30,7 @@ So I've done a lot of side projects and learned a lot of skills from them.
 - Other
   - Git
   - Linux
+  - Scrum
 
 ## Work Experience
 
@@ -55,8 +56,7 @@ Junior Full Stack Developer  *(2018.11 - 2021.04)*
 - Improve the process and prevent users from using illegal programs to complete the checkout.
 - Participated in the pre-launch stage and the construction of the back end for project Product Reservation System.
 - Cached frquently accessed data with memcached, improving the speed of inquiry from the original structure.
-- Developed new procedures for requirements gathering, needs analysis and documentation to strengthen quality and functionality of business-critical applications.
-- Developed large-scale, portable, thread-safe and ultra-high performance foundation and application infrastructure libraries.
+- Developed large-scale, portable and ultra-high performance foundation and application infrastructure libraries.
 
 #### Warehouse Department
 - Responsible for designing, implementing, and providing business solutions for customers. Led efforts in root-causing and fixing customer bugs such as transaction failures.
