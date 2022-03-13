@@ -44,7 +44,7 @@
 - 產品正式發布前，進行壓力測試已提早找出效能瓶頸點。
 - 擔任小組核心成員，確定未來兩年的技術投資並確定優先順序，確保流程、技術和業務目標的一致性。
 - 新一代解決方案、系統和應用的創新者，使公司具有競爭優勢，並為客戶帶來傑出的成果。
-- 與資深人員（開發人員、設計師、UI/UX 設計師）和 專案/產品 經理在一個小型的、敏捷的團隊中合作，建立響應式、跨瀏覽器兼容和可擴展的網路應用。每日立會。持續審查PR(Pull Request)。參與前端和後端工作。包含到用戶體驗。
+- 與資深人員（開發人員、設計師、UI/UX 設計師）和 專案/產品 經理在一個小型的、敏捷的團隊中合作，建立響應式、跨瀏覽器兼容和可擴展的網路應用。每日立會。持續審查 PR(Pull Request)。參與前端和後端工作。包含到用戶體驗。
 
 ### [PChome](https://www.pchome.com.tw/)
 全端工程師  *(2018.11 - 2021.04)*
@@ -60,21 +60,21 @@
 #### 倉儲部門
 - 負責為客戶設計、實施和提供業務解決方案。針對錯誤進行排除或根治其狀況，並提供更好的解決方案。
 - 設計和開發不同的管理和應用程式的前端部分。
-- 使用jQuery、Bootstrap和基於PHP slim REST框架的內部API，設計並實現新產品和功能。
+- 使用 jQuery、Bootstrap 和基於 PHP slim REST 框架的內部 API ，設計並實現新產品和功能。
 
 ## Side Project
 
 ### 手遊聊天機器人 (非官方)
 
-管理擁有超過10000人好友的[Line](https://line.me/zh-hant/)機器人，使用nodejs + express + bottender
+管理擁有超過 10000 人好友的 [Line](https://line.me/zh-hant/) 機器人，使用 nodejs + express + bottender
 喜好學習技術，並將其應用至此專案，非工作原因已間接學到 docker, react.js, node.js, python, opencv, redis
-原始碼皆放至Github：https://github.com/hanshino/redive_linebot
+原始碼皆放至 Github：https://github.com/hanshino/redive_linebot
 
 ### 線上遊戲聊天機器人 (非官方)
 
-這遊戲已經開了10年以上，每兩個禮拜都還持續更新。這也導致太多的裝備讓玩家難以挑選最好的來使用。
+這遊戲已經開了 10 年以上，每兩個禮拜都還持續更新。這也導致太多的裝備讓玩家難以挑選最好的來使用。
 基於此原因，為了讓玩家更快的找到正確的資訊，我做了此專案。
 
-原始碼皆放至Github: 
+原始碼皆放至 Github: 
   - Line bot: https://github.com/hanshino/tthol-line-bot
   - Discord bot: https://github.com/hanshino/tthol_bot
