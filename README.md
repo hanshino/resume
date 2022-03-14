@@ -35,7 +35,8 @@ So I've done a lot of side projects and learned a lot of skills from them.
 ## Work Experience
 
 ### [Coolbe](https://www.coolbe.com.tw/)
-Senior Backend Developer  *(2021.05 - Present)*
+
+Senior Backend Developer _(2021.05 - Present)_
 
 - Categorize existing users in Elasticsearch for future marketing.
 - Provide a platform for brands to create custom messages for their customers.
@@ -48,9 +49,11 @@ Senior Backend Developer  *(2021.05 - Present)*
 - Collaborated with senior consultants (developers, designers, UX designers) and project/product managers in a small, agile team building responsive, cross-browser compatible and scalable web apps. Daily stand-up. Peer reviewing PR. Involved in front-end & back-end. Exposed to UX.
 
 ### [PChome](https://www.pchome.com.tw/)
-Junior Full Stack Developer  *(2018.11 - 2021.04)*
+
+Junior Full Stack Developer _(2018.11 - 2021.04)_
 
 #### Web Department
+
 - Receive and process orders from customers.
 - Provide a platform for customers to order products and pay for them.
 - Improve the process and prevent users from using illegal programs to complete the checkout.
@@ -59,6 +62,7 @@ Junior Full Stack Developer  *(2018.11 - 2021.04)*
 - Developed large-scale, portable and ultra-high performance foundation and application infrastructure libraries.
 
 #### Warehouse Department
+
 - Responsible for designing, implementing, and providing business solutions for customers. Led efforts in root-causing and fixing customer bugs such as transaction failures.
 - Design and developed different admin and front-end section of the application.
 - Designed and implemented new products and features using jQuery, Bootstrap and an internal API based on PHP slim REST Framework.
@@ -69,7 +73,7 @@ Junior Full Stack Developer  *(2018.11 - 2021.04)*
 
 Manage [Line](https://line.me/zh-hant/) bot with over 10,000 followers using nodejs + express + bottender
 
-I like to learn technologies and apply them to this project. 
+I like to learn technologies and apply them to this project.
 
 I have indirectly learned docker, react.js, node.js, python, opencv, redis for non-work reasons.
 The source code is on Github: https://github.com/hanshino/redive_linebot
@@ -77,6 +81,7 @@ The source code is on Github: https://github.com/hanshino/redive_linebot
 ### Chatbot of the Online Game (un-official)
 
 This game has served for a long time. It updates game data every two weeks. Too much equipment makes it hard for players to decide which one is the best. For this reason, this project is made to help players to find the relevant information more quickly.
-The source code is on Github: 
-  - Line bot: https://github.com/hanshino/tthol-line-bot
-  - Discord bot: https://github.com/hanshino/tthol_bot
+The source code is on Github:
+
+- Line bot: https://github.com/hanshino/tthol-line-bot
+- Discord bot: https://github.com/hanshino/tthol_bot
